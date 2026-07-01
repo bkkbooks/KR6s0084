@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0084/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 出三藏記集
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2145.xml
+    old_id: T55n2145
+hash: sha256:41e9ea22050aac9d0406de0c324affb010d7124572cced52279871164add7a44
